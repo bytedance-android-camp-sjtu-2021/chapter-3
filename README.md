@@ -1,5 +1,10 @@
 # chapter-3
 
+《UI开发进阶：Fragment & Animation》
+
+> 2021年交大《安卓应用开发技术》课程第三讲
+
+
 ## 说明
 Chapter_3-Android_UI进阶.pdf: 课程讲义
 
