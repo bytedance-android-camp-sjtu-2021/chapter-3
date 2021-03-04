@@ -17,7 +17,7 @@ Homework: 作业工程
 
 作业地址: Homework/
 
-提交方式: 提交到你的 Repository 中 Homework-Chapter-3 目录
+提交方式: 提交到你的 Repository 中 Homework-Chapter-3 目录。并将git仓库名字发送到 zhuqinxiang@bytedance.com，邮件标题：交大+名字+学号 第三课 
 
 截止时间: 3月12日 19:00
 
